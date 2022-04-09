@@ -6,7 +6,7 @@ deno + nanoSSR
 
 ## run
 
-`deno run --allow-net --config deno.json index.tsx`
+`deno run --allow-net --watch --config deno.json index.tsx`
 
 ## reference
 

@@ -2,7 +2,7 @@
 
 cineps 서비스 종료에 따른 간단한 웹
 
-deno + nanoSSR + oak
+deno + nanoSSR
 
 ## run
 
